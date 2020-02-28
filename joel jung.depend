@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582871069 source:u:\joeltest\joel jung\main.c
+	<stdio.h>
+	<stdlib.h>
+
